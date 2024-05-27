@@ -1,0 +1,21 @@
+/* CSS_Lists.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAEBD7;
+    color: #007bff;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: square; /* Change the list-style-type for unordered lists */
+}
+
+ol {
+    list-style-type: upper-roman; /* Change the list-style-type for ordered lists */
+}

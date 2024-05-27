@@ -1,0 +1,8 @@
+p {
+    background-color: navy;
+    color: pink;
+    text-decoration: underline;
+    font-weight: italic;
+    font-size: large;
+    text-shadow: 2px 2px 4px #000000; /* Adding text-shadow effect */
+}
